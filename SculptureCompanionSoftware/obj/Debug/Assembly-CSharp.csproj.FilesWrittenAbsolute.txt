@@ -1,0 +1,13 @@
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/UnityEngine.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/UnityEditor.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Mono.Cecil.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Unity.DataContract.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/AlekB/Desktop/ArtThesis/SOFTWARE/ArtThesis/SculptureCompanionSoftware/Temp/bin/Debug/Mono.Cecil.Mdb.dll

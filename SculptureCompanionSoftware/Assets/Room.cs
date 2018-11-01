@@ -109,7 +109,7 @@ public class Room : MonoBehaviour {
 	}
 
 	void createLines(GameObject[] shelves, int numLines, Vector3 WinchPos){
-		Vector3 winchAdj = new Vector3 (-.5f, 2f, 0f);
+		Vector3 winchAdj = new Vector3 (-.5f, 1.5f, -.6f);
 		line.SetPosition(0, (WinchPos+winchAdj));
 		int length = shelves.Length-1; 
 		for (int i = 1; i < numLines; i++) {
