@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4EA56C4B-36A2-60BE-B6EB-56298805A12F}") = "SculptureCompanionSoftware", "Assembly-CSharp.csproj", "{0B9040A1-9117-498F-DE0C-B6722E20E49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9040A1-9117-498F-DE0C-B6722E20E49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9040A1-9117-498F-DE0C-B6722E20E49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9040A1-9117-498F-DE0C-B6722E20E49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9040A1-9117-498F-DE0C-B6722E20E49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
